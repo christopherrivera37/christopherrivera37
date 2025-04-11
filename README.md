@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=3000&font=&pause=500&color=308fc2&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+there!;My+name+is+Ale+Pagan;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi!+I'm+Christopher+Rivera.+YEET!)](https://git.io/typing-svg)
+
+
 - 💻 I'm studying Computer Engineering at the University of Puerto Rico - Mayaguez !
 - 🙂 I’m interested in  !
 - ⚡ Fun fact: I like reading about technologies that I might use !
